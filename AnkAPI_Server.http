@@ -1,0 +1,6 @@
+@AnkAPI_Server_HostAddress = http://localhost:5042
+
+GET {{AnkAPI_Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
